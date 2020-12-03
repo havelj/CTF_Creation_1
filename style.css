@@ -1,0 +1,23 @@
+body, html {
+    background-color: #eaeeff;
+}
+
+.container {
+    text-align: center;
+    padding-top: 5rem;
+}
+
+.container2 {
+    display: none;
+    color: #eaeeff;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 0;
+}
+
+.incorrect {
+    color: red;
+    padding-top: 1rem;
+    display: none;
+}
